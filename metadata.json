@@ -1,0 +1,6 @@
+{
+  "name": "DMX System",
+  "description": "Sistema de gestión comercial e inventario para un único establecimiento y usuario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
